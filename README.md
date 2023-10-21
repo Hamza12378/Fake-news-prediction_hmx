@@ -1,5 +1,7 @@
 # Fake-news-prediction_hmx
 Welcome to the "Fake News Prediction" project repository! This project focuses on using machine learning to predict whether a news article is fake or real based on a provided dataset in CSV format.
+
+
 ------------------Contents-----------------
 
 Dataset: I provide a CSV dataset that contains news articles along with labels indicating whether each article is fake or real. The dataset is a valuable resource for training and evaluating machine learning models.
