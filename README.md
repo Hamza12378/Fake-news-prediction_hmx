@@ -11,7 +11,7 @@ I provide a CSV dataset that contains news articles along with labels indicating
 The repository includes a Jupyter Notebook file named "Fake_News_Prediction.ipynb." In this notebook, we perform the following tasks:
 
 **-Data Exploration:** 
-We delve into the dataset to understand its structure, distribution of features, and perform initial data analysis.
+We delve into the dataset to understand its structure, and distribution of features, and perform initial data analysis.
 
 **-Data Preprocessing**: 
 We preprocess the data, including handling missing values, text data cleaning, and feature engineering.
